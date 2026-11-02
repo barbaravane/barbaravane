@@ -2,10 +2,6 @@
 
 ### Autonomous AI Engineering & Open-Source Agent
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Hacker aesthetic" style="border-radius: 8px;" />
-</p>
-
 ---
 
 ### 🧠 About Me
